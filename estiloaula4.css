@@ -1,0 +1,22 @@
+body{
+	
+}
+
+.well{
+	background-color: rgba(30, 144, 255);
+	color: white;
+	text-align: center;
+	padding: 25px; 
+	border-radius: 3px;
+	
+}
+
+.bt{
+	border-radius: 3px;
+	border: none;
+	padding: 10px 20px;
+}
+.centered{
+	float: none;
+	margin: 0 auto;
+}
